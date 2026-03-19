@@ -1,2 +1,0 @@
-# Machine-Learning-Based-Analysis-of-Food-Poisoning-Using-CNN-and-Random-Forest
-Machine learning-based analysis of food poisoning using CNN and Random Forest for four-category classification — pathogen, source, symptom, and severity. CNN extracts visual features from image datasets while Random Forest handles final classification. Achieves over 95% accuracy across all categories, contributing to smarter food safety monitoring.
